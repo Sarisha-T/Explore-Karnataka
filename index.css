@@ -108,7 +108,7 @@ li > a:hover {
 }
 
 .ele:nth-child(1) {
-  background-image: url("/images/gokarna2.jfif");
+  background-image: url("images/gokarna2.jfif");
   background-repeat: no-repeat;
   background-size: cover;
 }
